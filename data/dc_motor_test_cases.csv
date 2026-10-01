@@ -1,0 +1,5 @@
+Case_ID,Motor_ID,Voltage_Waveform,Voltage_Magnitude_V,Ramp_Duration_s,Pulse_Start_Time_s,Pulse_End_Time_s,Load_Torque_Nm,Load_Application_Time_s,Simulation_Duration_s,Suggested_Time_Step_s
+M1_Step_Voltage,Motor_A,step,24,0,0,0,0.05,1,3,0.0001
+M2_Ramp_Voltage,Motor_A,ramp,18,0.5,0,0,0.08,1.2,3,0.0002
+M3_Pulse_Voltage,Motor_B,pulse,24,0,0.2,1.5,0.03,0.8,2.5,0.0002
+M4_User_Defined_Profile,Motor_A,user_defined,NaN,NaN,NaN,NaN,NaN,NaN,3,0.001
