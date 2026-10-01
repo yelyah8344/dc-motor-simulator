@@ -111,10 +111,10 @@ bundles the MATLAB Runtime, so the end user does not need MATLAB.
 
 Group 04, Section C2, Level 2 Term 1
 
-- Shuvro Pain — 2406177
-- Taseen Intisar — 2406188
-- Abdus Samiul Hasan Sun — 2406193
-- Nadman Wasit — 2406195
+- Shuvro Pain - 2406177
+- Taseen Intisar - 2406188
+- Abdus Samiul Hasan Sun - 2406193
+- Nadman Wasit - 2406195
 
 ## Licence
 
