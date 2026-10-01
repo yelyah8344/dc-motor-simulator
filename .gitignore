@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+slprj/
+codegen/
+
+# MATLAB Compiler output (large, rebuildable)
+build/
+*_mcr/
+DCMotorSimulatorStandalone/
+*.exe
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
