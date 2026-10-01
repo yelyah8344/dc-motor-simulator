@@ -109,7 +109,7 @@ bundles the MATLAB Runtime, so the end user does not need MATLAB.
 
 ## Authors
 
-Group C2-04, Section C2, Level 2 Term 1
+Group 04, Section C2, Level 2 Term 1
 
 - Shuvro Pain — 2406177
 - Taseen Intisar — 2406188
